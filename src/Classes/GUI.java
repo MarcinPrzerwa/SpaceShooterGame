@@ -60,8 +60,5 @@ public class GUI extends JPanel {
                 music.getClip().stop();
             }
         });
-
-
     }
-
 }
